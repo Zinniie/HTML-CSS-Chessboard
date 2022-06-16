@@ -1,0 +1,9 @@
+td{
+    height: 100px;
+    width: 100px;
+}
+
+.black{background: black;}
+.white{background: white;}
+
+table{border: 1px groove black; margin: 100px auto;}
